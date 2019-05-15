@@ -3,6 +3,7 @@ Based on the chapter 21 lesson from the [iOS development bootcamp](https://www.u
 
 ## Requirements
 Swift 4.2
+
 Minimum iOS version: 9.0
 
 ## CocoaPods used in this app:
